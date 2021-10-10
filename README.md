@@ -16,3 +16,7 @@ Since the IU staff each year face the problem of the continious reevaluation and
 ## How to start?
 
 1. Open Terminal and move to the project folder.
+
+
+## The link to the Gamma Delivery Artifact
+https://docs.google.com/document/d/166Qo43yYpj0kU7wZkASmyi8vUbHCtexM/edit?usp=sharing&ouid=103368057705261349236&rtpof=true&sd=true
